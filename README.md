@@ -1,6 +1,6 @@
 # Testes Unitários
 
-Este repositório contém alguns exemplos simples de implementação de testes unitários utilizando xUnit e Moq em uma aplicação C# .NET 7 Core.
+Este repositório contém alguns exemplos simples de implementação de testes unitários utilizando xUnit e Moq em uma aplicação C# .NET 6.
 
 # O que são testes unitários?
 
